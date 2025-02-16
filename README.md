@@ -1,0 +1,1 @@
+# SmartWasteManagement-EXE
