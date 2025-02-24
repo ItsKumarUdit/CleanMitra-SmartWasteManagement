@@ -25,4 +25,7 @@ Contributors
  - Hema Charan Reddy
  - Nihar Reddy
  - Dheeraj Kotla
- 
+ - 
+Want to Part of our Project?
+- We welcome contributions! Feel free to open an issue or submit a pull request.
+  Email - imkumarudit@gmail.com
