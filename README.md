@@ -8,7 +8,8 @@ Features
  - Efficient Collection Routes – Helps optimize waste collection schedules.  
  - Database Integration – Stores data using MongoDB.  
  - Interactive UI – Built with *JavaFX* for a smooth user experience.  
- - Temporary File Storage – Keeps data even after app restarts.  
+ - Temporary File Storage – Keeps data even after app restarts.
+ - Backend [MongoDB]
 
 Technologies Used  
 - Java (JDK 21) – Core programming language  
@@ -17,7 +18,6 @@ Technologies Used
 - IntelliJ IDEA – IDE used for development
 
 Upcoming Technologies
-- Backend [MongoDB]
 - Real-time Waste Tracking – Monitors bin levels using sensors or manual input. 
 
 Contributors  
